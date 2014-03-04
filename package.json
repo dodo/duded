@@ -1,0 +1,23 @@
+{
+  "name": "duded",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ndbus": "https://bitbucket.org/dodothelast/node-ndbus.git",
+    "through": "~2.3.4",
+    "split": "~0.2.10",
+    "stream-combiner": "0.0.4",
+    "iwlist": "0.0.5",
+    "async": "~0.2.9",
+    "colors": "~0.6.2"
+  },
+  "devDependencies": {
+    "easy-table": "~0.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
